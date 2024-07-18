@@ -1,6 +1,4 @@
-Certainly, Daniel! Here's a nice GitHub README template for you:
 
----
 
 # 💻 Daniel Odoi
 
@@ -13,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate full stack developer with experie
 - **Frontend Development:**
   - HTML, CSS
   - React, Next.js
-  - Flutter
+
 
 - **Backend Development:**
   - Laravel
@@ -21,13 +19,24 @@ Welcome to my GitHub profile! I'm a passionate full stack developer with experie
 
 - **Database & Cloud:**
   - Firebase
+  - MySQL
+  - Postgres
 
 - **Mobile Development:**
   - React Native
+  - Flutter
+
+### 💼 What I Do
+
+I specialize in building responsive and dynamic web applications, as well as cross-platform mobile apps. My diverse skill set allows me to handle projects from conception to deployment, ensuring seamless integration between frontend and backend components.
+
+### 🌱 Current Focus
+
+I'm always looking to expand my knowledge and stay up-to-date with the latest industry trends. Currently, I'm deepening my expertise in software development
 
 ### 📈 GitHub Stats
 
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReddIndiann&show_icons=true&theme=radical)
 
 ### 🌟 Top Repositories
 
@@ -35,12 +44,9 @@ Welcome to my GitHub profile! I'm a passionate full stack developer with experie
 
 ### 📫 Contact Me
 
-- **Email:** your-email@example.com
-- **LinkedIn:** [Daniel Odoi](https://www.linkedin.com/in/your-linkedin-profile/)
-- **Twitter:** [@your-twitter-handle](https://twitter.com/your-twitter-handle)
+- **Email:** danielkojo005@gmail.com
+- **LinkedIn:** [Daniel Odoi](https://www.linkedin.com/in/daniel-kwadwo-a4834921a)
+
 
 Feel free to reach out if you want to collaborate on any project or just want to say hi!
 
----
-
-Replace placeholders like `your-github-username`, `your-repo-name`, `your-email@example.com`, and social media links with your actual information. This README template highlights your skills and makes it easy for others to get in touch with you.
