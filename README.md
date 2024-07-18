@@ -1,25 +1,28 @@
-# Daniel Odoi
 
-## Full-Stack Developer
 
-Hello! I'm Daniel Odoi, a versatile full-stack developer with expertise in a wide range of technologies.
+# 💻 Daniel Odoi
 
-### 🚀 My Tech Stack
+## 🌐 Full Stack Developer
 
-- **Frontend:**
-  - HTML
-  - CSS
-  - React
-  - Next.js
-  - React Native
+Welcome to my GitHub profile! I'm a passionate full stack developer with experience in a diverse range of technologies. From building responsive web interfaces to creating robust back-end systems, I enjoy bringing ideas to life in the digital world.
+
+### 🚀 Skills & Technologies
+
+- **Frontend Development:**
+  - HTML, CSS
+  - React, Next.js
   - Flutter
 
-- **Backend:**
+- **Backend Development:**
   - Laravel
   - Express.js
 
 - **Database & Cloud:**
   - Firebase
+
+- **Mobile Development:**
+  - React Native
+
 
 ### 💼 What I Do
 
@@ -29,14 +32,22 @@ I specialize in building responsive and dynamic web applications, as well as cro
 
 I'm always looking to expand my knowledge and stay up-to-date with the latest industry trends. Currently, I'm deepening my expertise in [mention any areas you're currently focusing on, e.g., "serverless architectures" or "AI integration in web apps"].
 
-### 📫 Get in Touch
 
-- GitHub: [Your GitHub profile link]
-- LinkedIn: [Your LinkedIn profile link]
-- Email: [Your professional email address]
+### 📈 GitHub Stats
 
-Feel free to reach out if you'd like to collaborate on a project or just chat about tech!
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?ReddIndiann&show_icons=true&theme=radical)
 
-### 📊 GitHub Stats
+### 🌟 Top Repositories
 
-[You can add GitHub stats here using tools like GitHub Readme Stats]
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=your-repo-name&theme=radical)](https://github.com/your-github-username/your-repo-name)
+
+### 📫 Contact Me
+
+- **Email:** danielkojo005@gmail.com
+- **LinkedIn:** [Daniel Odoi]([https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/daniel-kwadwo-a4834921a))
+
+
+Feel free to reach out if you want to collaborate on any project or just want to say hi!
+
+---
+
